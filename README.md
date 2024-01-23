@@ -1,6 +1,6 @@
 # GenAI Powered Tourism and Travel Guide
 
-Developed an advanced custom user PDF based response for a Tourism and Travel, integrating components including Semantic Text Embedding with Sentence Transformer models, Indexing and OpenAI GPT 3.5 Turbo LLM for accurate responses by applying augmentation methods (RAG), including prompt engineering and vector databases such as FAISS, to enhance the system's adaptability and generate diverse and contextually rich answers.
+An advanced Gen AI powered custom user PDF based responsive Chatbot for a Tourism and Travel, integrating components including Semantic Text Embedding with Sentence Transformer models, Indexing and OpenAI GPT 3.5 Turbo LLM for accurate responses by applying augmentation methods (RAG), including prompt engineering and vector databases such as FAISS, to enhance the system's adaptability and generate diverse and contextually rich answers. Streamlit Prompt engineering involves designing and constructing specific, structured prompts or instructions for language models to guide their outputs towards desired responses or tasks
 
 Some screenshots of the model:
 
